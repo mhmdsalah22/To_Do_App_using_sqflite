@@ -2,6 +2,9 @@
 
 The **Todo App** is a powerful task management application designed to help users stay organized and focused on their daily tasks and responsibilities. Built using **Flutter**, the app ensures a smooth and responsive user experience across various platforms.
 
+##Screenshots
+<img width="1600" alt="image_original (12)" src="https://github.com/user-attachments/assets/5d350bec-8f71-4b0a-a218-4bf799447956" />
+
 ## Features
 
 ### Task Management
@@ -42,8 +45,7 @@ Follow these steps to set up and run the application locally:
    ```bash
    flutter run
 
-##Screenshots
-<img width="1600" alt="image_original (12)" src="https://github.com/user-attachments/assets/5d350bec-8f71-4b0a-a218-4bf799447956" />
+
 
 
 
