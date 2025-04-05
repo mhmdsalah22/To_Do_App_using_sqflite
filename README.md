@@ -44,8 +44,3 @@ Follow these steps to set up and run the application locally:
 4. Run the application:
    ```bash
    flutter run
-
-
-   
-   
-   
